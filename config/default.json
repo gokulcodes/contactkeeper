@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://reactinter:reactinter@reactinter-gbh5n.mongodb.net/datastore?retryWrites=true&w=majority",
+    "jwtSecret": "react"
+}
